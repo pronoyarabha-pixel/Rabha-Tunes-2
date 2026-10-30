@@ -3,11 +3,11 @@
   "description": "Rabha Tunes is a premium music streaming platform dedicated to indigenous Rabha and Northeast folk music, featuring high-fidelity online audio streaming, dynamic discovery, and an administrator music management suite.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "rabha-tunes",
+  "name": "rabha-tunes-2.vercel",
   "orientation": "any",
   "scope": "/",
-  "short_name": "rabha-tunes",
+  "short_name": "rabha-tunes-2.vercel",
   "start_url": "/",
-  "theme_color": "#434141",
+  "theme_color": "#454343",
   "id": "/?source=pwa"
 }
