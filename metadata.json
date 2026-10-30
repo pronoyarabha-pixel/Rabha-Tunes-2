@@ -1,0 +1,6 @@
+{
+  "name": "Rabha Tunes",
+  "description": "Rabha Tunes is a premium music streaming platform dedicated to indigenous Rabha and Northeast folk music, featuring high-fidelity online audio streaming, dynamic discovery, and an administrator music management suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

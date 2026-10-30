@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "id": "admin_1",
+      "email": "admin@rabhatunes.com",
+      "name": "Rabha Tunes Admin",
+      "role": "admin",
+      "avatarUrl": "/src/assets/images/rabha_tunes_logo_1793373855039.jpg",
+      "createdAt": "2026-10-30T15:35:43.016Z"
+    }
+  ],
+  "adminTokens": {
+    "rabha-admin-secret-token": "admin_1"
+  },
+  "songs": [
+    {
+      "id": "song_1",
+      "title": "Echoes of Dudhnoi (দুধনৈৰ প্রতিধ্বনি)",
+      "artist": "Rongmon Rabha",
+      "artistId": "art_1",
+      "album": "Echoes of Dudhnoi",
+      "albumId": "alb_1",
+      "genre": "Rabha Folk Fusion",
+      "language": "Rabha",
+      "description": "Soulful indigenous melody blending the sacred Singga bamboo flute, wooden Kham drums, and ancient hill chants of the Dudhnoi valley.",
+      "releaseDate": "2026-10-01",
+      "publicationDate": "2026-10-05T15:35:43.016Z",
+      "coverUrl": "/src/assets/images/album_rabha_echoes_1793373855412.jpg",
+      "audioUrl": "/api/stream/song_1",
+      "duration": 95,
+      "lyrics": "[00:00.00] (Traditional Bamboo Singga Flute Prelude)\n[00:15.00] Dudhnoi nodir dhalere boi ahe sur\n[00:30.00] Paharor buku falir ahe aamar Rabha ghor\n[00:45.00] Singga baje re, Kham baje re\n[01:00.00] Matir sughondhi botahe bhahi jabo aamar poran\n[01:15.00] Rabha hiyare giti gojai hahi",
+      "isFeatured": true,
+      "isPublished": true,
+      "playCount": 1240,
+      "likesCount": 318,
+      "createdAt": "2026-10-05T15:35:43.016Z",
+      "updatedAt": "2026-10-05T15:35:43.016Z",
+      "mimeType": "audio/wav"
+    },
+    {
+      "id": "song_2",
+      "title": "Breeze of Goalpara (গোৱালপাৰীয়া সমীৰ)",
+      "artist": "Rongmon Rabha & Maitori Ensemble",
+      "artistId": "art_1",
+      "album": "Breeze of GoalpGoGoalpGoalparaaraalparaara",
+      "albumId": "alb_2",
+      "genre": "Serene Ambient Folk",
+      "language": "Rabha / Assamese",
+      "description": "Twilight acoustic serenades featuring wooden Dotara strums, evening cicadas, and heartfelt Rabha community folk melodies.",
+      "releaseDate": "2026-10-15",
+      "publicationDate": "2026-10-16T15:35:43.016Z",
+      "coverUrl": "/src/assets/images/album_goalpara_breeze_1793373856591.jpg",
+      "audioUrl": "/api/stream/song_2",
+      "duration": 110,
+      "lyrics": "[00:00.00] (Acoustic Dotara & Twilight Forest Ambience)\n[00:20.00] Goalpara potho majhe juneli rati\n[00:42.00] Botahe loi aane aakashor batori\n[01:05.00] Suror dharae bhalpua bilai\n[01:25.00] Amar Rabha hiyakhoni jurale",
+      "isFeatured": true,
+      "isPublished": true,
+      "playCount": 890,
+      "likesCount": 245,
+      "createdAt": "2026-10-16T15:35:43.016Z",
+      "updatedAt": "2026-10-16T15:35:43.016Z",
+      "mimeType": "audio/wav"
+    },
+    {
+      "id": "song_3",
+      "title": "Hacha Rhythms & Dance (হাচা নৃত্য গীত)",
+      "artist": "Goalpara Cultural Troupe",
+      "artistId": "art_2",
+      "album": "Hacha Rhythms & Songs",
+      "albumId": "alb_3",
+      "genre": "Festive Tribal Beats",
+      "language": "Rabha (Rongdani)",
+      "description": "Exhilarating harvest rhythm of the Rabha Hacha celebration, welcoming the new season with high-energy Dama drumming and brass cymbals.",
+      "releaseDate": "2026-10-25",
+      "publicationDate": "2026-10-25T15:35:43.016Z",
+      "coverUrl": "/src/assets/images/album_hacha_rhythms_1793373857213.jpg",
+      "audioUrl": "/api/stream/song_3",
+      "duration": 120,
+      "lyrics": "[00:00.00] (Festive Dama Drums & Chants)\n[00:18.00] Hacha porob aahil aji sokolu jhumise\n[00:36.00] Rongdani hiyai aji giti gaisi\n[00:54.00] Jhumuri taale taale naasi jabo ami\n[01:12.00] Matir aaxirbad loi bahi thakibo dhoroni",
+      "isFeatured": true,
+      "isPublished": true,
+      "playCount": 654,
+      "likesCount": 192,
+      "createdAt": "2026-10-25T15:35:43.016Z",
+      "updatedAt": "2026-10-30T15:56:47.999Z",
+      "mimeType": "audio/wav"
+    },
+    {
+      "id": "song_4",
+      "title": "Dama Call to the Hills (দামাৰ আহ্বান)",
+      "artist": "Rongmon Rabha",
+      "artistId": "art_1",
+      "album": "Echoes of Dudhnoi",
+      "albumId": "alb_1",
+      "genre": "Rabha Traditional",
+      "language": "Rabha",
+      "description": "Sacred ceremonial invocation recorded during the full moon gathering in Goalpara. Scheduled for upcoming release.",
+      "releaseDate": "2026-11-15",
+      "publicationDate": "2026-11-14T15:35:43.016Z",
+      "coverUrl": "/src/assets/images/album_rabha_echoes_1793373855412.jpg",
+      "audioUrl": "/api/stream/song_4",
+      "duration": 85,
+      "isFeatured": false,
+      "isPublished": true,
+      "playCount": 0,
+      "likesCount": 0,
+      "createdAt": "2026-10-30T15:35:43.016Z",
+      "updatedAt": "2026-10-30T15:35:43.016Z",
+      "mimeType": "audio/wav"
+    }
+  ],
+  "artists": [
+    {
+      "id": "art_1",
+      "name": "Rongmon Rabha",
+      "bio": "Renowned indigenous folk master and flute maestro from the Goalpara plains. Dedicated to reviving authentic Rabha bamboo rhythms and ancestral songcraft.",
+      "imageUrl": "/src/assets/images/artist_rongmon_rabha_1793373858610.jpg",
+      "monthlyListeners": 14200,
+      "genres": [
+        "Rabha Folk Fusion",
+        "Traditional Flute",
+        "Indigenous Ambient"
+      ]
+    },
+    {
+      "id": "art_2",
+      "name": "Goalpara Cultural Troupe",
+      "bio": "A traditional ensemble of folk drummers and choir vocalists specializing in the ceremonial Hacha festival rhythms and folk dances.",
+      "imageUrl": "/src/assets/images/album_hacha_rhythms_1793373857213.jpg",
+      "monthlyListeners": 8900,
+      "genres": [
+        "Festive Tribal Beats",
+        "Rabha Traditional"
+      ]
+    },
+    {
+      "id": "art_3",
+      "name": "Maitori Ensemble",
+      "bio": "Contemporary acoustic acoustic collective blending tribal harmonies with serene organic soundscapes.",
+      "imageUrl": "/src/assets/images/album_goalpara_breeze_1793373856591.jpg",
+      "monthlyListeners": 6300,
+      "genres": [
+        "Serene Ambient Folk",
+        "Acoustic Tribal"
+      ]
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_1",
+      "title": "Echoes of Dudhnoi",
+      "artist": "Rongmon Rabha",
+      "artistId": "art_1",
+      "releaseYear": 2026,
+      "coverUrl": "/src/assets/images/album_rabha_echoes_1793373855412.jpg",
+      "genre": "Rabha Folk Fusion",
+      "songCount": 2
+    },
+    {
+      "id": "alb_2",
+      "title": "Breeze of Goalpara",
+      "artist": "Rongmon Rabha & Maitori Ensemble",
+      "artistId": "art_1",
+      "releaseYear": 2026,
+      "coverUrl": "/src/assets/images/album_goalpara_breeze_1793373856591.jpg",
+      "genre": "Serene Ambient Folk",
+      "songCount": 1
+    },
+    {
+      "id": "alb_3",
+      "title": "Hacha Rhythms & Songs",
+      "artist": "Goalpara Cultural Troupe",
+      "artistId": "art_2",
+      "releaseYear": 2026,
+      "coverUrl": "/src/assets/images/album_hacha_rhythms_1793373857213.jpg",
+      "genre": "Festive Tribal Beats",
+      "songCount": 1
+    }
+  ],
+  "playlists": [
+    {
+      "id": "pl_1",
+      "name": "Rabha Folk Heritage Essentials",
+      "description": "The definitive sound of the Rabha tribe: mystical flutes, rhythmic drums, and ancestral mountain verses.",
+      "coverUrl": "/src/assets/images/album_rabha_echoes_1793373855412.jpg",
+      "userId": "admin_1",
+      "isPublic": true,
+      "songIds": [
+        "song_1",
+        "song_2",
+        "song_3"
+      ],
+      "createdAt": "2026-10-10T15:35:43.016Z",
+      "updatedAt": "2026-10-30T15:35:43.016Z"
+    },
+    {
+      "id": "pl_2",
+      "name": "Goalpara Acoustic Twilight",
+      "description": "Slow-tempo folk music and tranquil midnight serenades from the riverbanks.",
+      "coverUrl": "/src/assets/images/album_goalpara_breeze_1793373856591.jpg",
+      "userId": "admin_1",
+      "isPublic": true,
+      "songIds": [
+        "song_2",
+        "song_1"
+      ],
+      "createdAt": "2026-10-20T15:35:43.016Z",
+      "updatedAt": "2026-10-30T15:35:43.017Z"
+    }
+  ],
+  "likedSongs": {
+    "guest": [
+      "song_1",
+      "song_2"
+    ]
+  },
+  "history": [
+    {
+      "id": "h_1",
+      "userId": "guest",
+      "songId": "song_1",
+      "playedAt": "2026-10-30T15:35:43.017Z"
+    }
+  ]
+}
